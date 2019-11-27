@@ -2,6 +2,7 @@
   "active": true,
   "can_edit_in_studio": false,
   "enforce_license": "log",
+  "guided_setup_guid": null,
   "js_level": "helsinki_es5",
   "licensable": true,
   "license_category": null,
