@@ -1,0 +1,15 @@
+{
+  "sys_class_name": "sys_ui_action_view",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2019-08-23 09:45:05",
+  "sys_id": "957fbe33dbdf3f408fb6f6700f9619fc",
+  "sys_mod_count": 1,
+  "sys_name": "Commit Update Set.CICD Preview",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_ui_action_view_957fbe33dbdf3f408fb6f6700f9619fc",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2019-08-23 09:45:13",
+  "visibility": "exclude"
+}

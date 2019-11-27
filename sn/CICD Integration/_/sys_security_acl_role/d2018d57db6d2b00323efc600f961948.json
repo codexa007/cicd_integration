@@ -1,0 +1,15 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2018-11-08 15:15:24",
+  "sys_id": "d2018d57db6d2b00323efc600f961948",
+  "sys_mod_count": 0,
+  "sys_name": ".cicd_integration_user",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_security_acl_role_d2018d57db6d2b00323efc600f961948",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2018-11-08 15:15:24",
+  "transaction_id": null
+}

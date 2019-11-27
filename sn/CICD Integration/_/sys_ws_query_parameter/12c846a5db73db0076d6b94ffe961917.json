@@ -1,0 +1,19 @@
+{
+  "example_value": 100,
+  "name": "sysparm_limit",
+  "required": false,
+  "short_description": "The maximum number of results returned per page (default: 10,000)",
+  "sys_class_name": "sys_ws_query_parameter",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2018-08-08 10:09:37",
+  "sys_id": "12c846a5db73db0076d6b94ffe961917",
+  "sys_mod_count": 0,
+  "sys_name": "sysparm_limit",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_ws_query_parameter_12c846a5db73db0076d6b94ffe961917",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2018-08-08 10:09:37",
+  "web_service_definition": "81eccb6fdbebd300dfa9b94ffe96190e"
+}

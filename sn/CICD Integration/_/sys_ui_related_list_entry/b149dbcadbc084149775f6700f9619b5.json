@@ -1,0 +1,14 @@
+{
+  "filter": "status=^EQ",
+  "list_id": "7949dbcadbc084149775f6700f9619b4",
+  "order_by": null,
+  "position": 0,
+  "related_list": "sys_update_preview_problem.remote_update_set",
+  "sys_class_name": "sys_ui_related_list_entry",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2019-09-24 07:55:36",
+  "sys_id": "b149dbcadbc084149775f6700f9619b5",
+  "sys_mod_count": 0,
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2019-09-24 07:55:36"
+}

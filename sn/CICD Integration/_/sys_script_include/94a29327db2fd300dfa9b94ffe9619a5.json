@@ -1,0 +1,23 @@
+{
+  "access": "public",
+  "active": true,
+  "api_name": "global.CiCdAtf",
+  "client_callable": false,
+  "description": null,
+  "name": "CiCdAtf",
+  "script": {
+    "____see": "sn\\CICD Integration\\Script Include\\active_true\\global.CiCdAtf.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2018-08-02 10:25:39",
+  "sys_id": "94a29327db2fd300dfa9b94ffe9619a5",
+  "sys_mod_count": 18,
+  "sys_name": "CiCdAtf",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_script_include_94a29327db2fd300dfa9b94ffe9619a5",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2019-02-28 14:19:19"
+}

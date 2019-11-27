@@ -1,0 +1,15 @@
+{
+  "sys_class_name": "sys_ui_action_view",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2019-08-23 08:55:02",
+  "sys_id": "14043633db9f3f408fb6f6700f961911",
+  "sys_mod_count": 1,
+  "sys_name": "Save.CICD Preview",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_ui_action_view_14043633db9f3f408fb6f6700f961911",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2019-08-23 08:55:15",
+  "visibility": "exclude"
+}

@@ -1,0 +1,19 @@
+{
+  "example_value": null,
+  "name": "sysparm_query_category",
+  "required": false,
+  "short_description": "Name of the query category (read replica category) to use for queries",
+  "sys_class_name": "sys_ws_query_parameter",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2018-08-08 12:05:55",
+  "sys_id": "db836e29dbb3db0076d6b94ffe961976",
+  "sys_mod_count": 0,
+  "sys_name": "sysparm_query_category",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_ws_query_parameter_db836e29dbb3db0076d6b94ffe961976",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2018-08-08 12:05:55",
+  "web_service_definition": "81eccb6fdbebd300dfa9b94ffe96190e"
+}
