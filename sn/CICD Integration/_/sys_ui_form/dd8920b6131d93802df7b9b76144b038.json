@@ -1,0 +1,18 @@
+{
+  "name": "atf_input_variable",
+  "roles": null,
+  "sys_class_name": "sys_ui_form",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2018-11-23 15:51:34",
+  "sys_id": "dd8920b6131d93802df7b9b76144b038",
+  "sys_mod_count": 0,
+  "sys_name": "atf_input_variable",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_ui_form_sections_dd8920b6131d93802df7b9b76144b038",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2018-11-23 15:51:34",
+  "view": "7966be310a0a0b8c00bd504090503227",
+  "view_name": null
+}
