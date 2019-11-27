@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "deprecated": false,
+  "is_default": true,
+  "short_description": null,
+  "sys_class_name": "sys_ws_version",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2018-08-02 10:00:07",
+  "sys_id": "0a3dcb2fdbebd300dfa9b94ffe9619c7",
+  "sys_mod_count": 1,
+  "sys_name": "v1",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_ws_version_0a3dcb2fdbebd300dfa9b94ffe9619c7",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2018-08-02 10:00:07",
+  "version": 1,
+  "version_id": "v1",
+  "web_service_definition": "81eccb6fdbebd300dfa9b94ffe96190e"
+}

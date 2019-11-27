@@ -1,0 +1,23 @@
+{
+  "access": "public",
+  "active": true,
+  "api_name": "global.CiCdJsDoc",
+  "client_callable": false,
+  "description": null,
+  "name": "CiCdJsDoc",
+  "script": {
+    "____see": "sn\\CICD Integration\\Script Include\\active_true\\global.CiCdJsDoc.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2018-12-13 09:57:36",
+  "sys_id": "d8f74022db9667c076d6b94ffe9619b5",
+  "sys_mod_count": 4,
+  "sys_name": "CiCdJsDoc",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_script_include_d8f74022db9667c076d6b94ffe9619b5",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2019-02-28 14:20:04"
+}

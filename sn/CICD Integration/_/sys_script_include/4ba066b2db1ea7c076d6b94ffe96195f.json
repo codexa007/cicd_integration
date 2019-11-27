@@ -1,0 +1,23 @@
+{
+  "access": "public",
+  "active": true,
+  "api_name": "global.CiCdWebHook",
+  "client_callable": false,
+  "description": null,
+  "name": "CiCdWebHook",
+  "script": {
+    "____see": "sn\\CICD Integration\\Script Include\\active_true\\global.CiCdWebHook.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2018-12-14 15:43:52",
+  "sys_id": "4ba066b2db1ea7c076d6b94ffe96195f",
+  "sys_mod_count": 27,
+  "sys_name": "CiCdWebHook",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_script_include_4ba066b2db1ea7c076d6b94ffe96195f",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2019-02-28 14:20:34"
+}

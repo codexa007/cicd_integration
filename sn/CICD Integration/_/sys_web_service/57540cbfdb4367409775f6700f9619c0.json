@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "function_name": "*",
+  "name": "api/devops/cicd/source/sys_update_xml",
+  "scoped_name": "api/devops/cicd/source/sys_update_xml",
+  "script": {
+    "____see": "sn\\CICD Integration\\Scripted Web Service\\active_true\\apidevopscicdsourcesys_update_xml.js"
+  },
+  "short_description": "getKeys, getRecords",
+  "sys_class_name": "sys_web_service",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2019-01-23 13:40:47",
+  "sys_id": "57540cbfdb4367409775f6700f9619c0",
+  "sys_mod_count": 2,
+  "sys_name": "api/devops/cicd/source/sys_update_xml",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_web_service_57540cbfdb4367409775f6700f9619c0",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2019-01-30 17:01:15",
+  "wsdl": "https://dev55495.service-now.com/api/devops/cicd/source/sys_update_xml.do?WSDL",
+  "wsdl_compliance": false
+}

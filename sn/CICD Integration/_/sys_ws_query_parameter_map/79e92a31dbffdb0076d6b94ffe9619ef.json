@@ -1,0 +1,16 @@
+{
+  "sys_class_name": "sys_ws_query_parameter_map",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2018-08-09 07:12:20",
+  "sys_id": "79e92a31dbffdb0076d6b94ffe9619ef",
+  "sys_mod_count": 0,
+  "sys_name": "8d336669dbb3db0076d6b94ffe96193e",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_ws_query_parameter_map_79e92a31dbffdb0076d6b94ffe9619ef",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2018-08-09 07:12:20",
+  "web_service_operation": "dfe5f9e1db33db0076d6b94ffe96198a",
+  "web_service_query_parameter": "8d336669dbb3db0076d6b94ffe96193e"
+}
