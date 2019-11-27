@@ -1,0 +1,23 @@
+{
+  "element": "u_test1233",
+  "help": null,
+  "hint": null,
+  "label": "test1233",
+  "language": "en",
+  "name": "u_test123",
+  "plural": "test1233s",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-27 18:30:41",
+  "sys_id": "2c6093fe4f514410a7bd9acf9310c7d2",
+  "sys_mod_count": 0,
+  "sys_name": "test1233",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_documentation_u_test123_u_test1233_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-27 18:30:41",
+  "url": null,
+  "url_target": null
+}

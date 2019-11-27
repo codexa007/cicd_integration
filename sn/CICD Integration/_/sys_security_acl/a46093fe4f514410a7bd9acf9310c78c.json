@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on u_test123",
+  "name": "u_test123",
+  "operation": "write",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-27 18:30:40",
+  "sys_id": "a46093fe4f514410a7bd9acf9310c78c",
+  "sys_mod_count": 0,
+  "sys_name": "u_test123",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_security_acl_a46093fe4f514410a7bd9acf9310c78c",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-27 18:30:40",
+  "type": "record"
+}
