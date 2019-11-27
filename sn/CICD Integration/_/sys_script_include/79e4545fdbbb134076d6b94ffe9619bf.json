@@ -2,6 +2,7 @@
   "access": "public",
   "active": true,
   "api_name": "global.CiCdDeploy",
+  "caller_access": null,
   "client_callable": false,
   "description": null,
   "name": "CiCdDeploy",
