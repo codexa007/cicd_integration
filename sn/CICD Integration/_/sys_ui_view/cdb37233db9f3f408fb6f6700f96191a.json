@@ -1,0 +1,20 @@
+{
+  "group": null,
+  "hidden": false,
+  "name": "cicd_preview",
+  "roles": null,
+  "sys_class_name": "sys_ui_view",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2019-08-23 08:53:44",
+  "sys_id": "cdb37233db9f3f408fb6f6700f96191a",
+  "sys_mod_count": 0,
+  "sys_name": "CICD Preview",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_ui_view_cdb37233db9f3f408fb6f6700f96191a",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2019-08-23 08:53:44",
+  "title": "CICD Preview",
+  "user": null
+}

@@ -1,0 +1,22 @@
+{
+  "calculated_name": "Retrieved Update Set - CICD Preview",
+  "filter": null,
+  "name": "sys_remote_update_set",
+  "order_by": null,
+  "position": null,
+  "related_list": null,
+  "sys_class_name": "sys_ui_related_list",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2019-09-24 07:55:36",
+  "sys_id": "7949dbcadbc084149775f6700f9619b4",
+  "sys_mod_count": 0,
+  "sys_name": "Retrieved Update Set - CICD Preview",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_ui_related_sys_remote_update_set_cicd_preview",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2019-09-24 07:55:36",
+  "view": "cdb37233db9f3f408fb6f6700f96191a",
+  "view_name": null
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "class_name": null,
+  "description": null,
+  "interactive": false,
+  "name": "CiCdExportBaseUpdateSet",
+  "parameters": null,
+  "params_endpoint": null,
+  "path": "cicd_export_base_update_set",
+  "path_endpoint": null,
+  "require_csrf": false,
+  "roles": null,
+  "script": {
+    "____see": "sn\\CICD Integration\\Processor\\active_true\\CiCdExportBaseUpdateSet.js"
+  },
+  "sys_class_name": "sys_processor",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2018-11-08 15:10:01",
+  "sys_id": "55ff3097db6d2b00323efc600f961959",
+  "sys_mod_count": 1,
+  "sys_name": "CiCdExportBaseUpdateSet",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_processor_55ff3097db6d2b00323efc600f961959",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2018-11-08 15:22:06",
+  "type": "script"
+}

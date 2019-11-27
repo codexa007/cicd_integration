@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": null,
+  "name": "/api/devops/cicd/atf",
+  "operation": "execute",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2018-08-02 10:18:48",
+  "sys_id": "9041d7a3db2fd300dfa9b94ffe961910",
+  "sys_mod_count": 0,
+  "sys_name": "/api/devops/cicd/atf",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_security_acl_9041d7a3db2fd300dfa9b94ffe961910",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2018-08-02 10:18:48",
+  "type": "REST_Endpoint"
+}

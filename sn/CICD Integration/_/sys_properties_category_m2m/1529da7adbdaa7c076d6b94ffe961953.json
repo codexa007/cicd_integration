@@ -1,0 +1,17 @@
+{
+  "category": "8d1de113dbb86380432cfc600f9619f6",
+  "order": 520,
+  "property": "2aa816f6dbdaa7c076d6b94ffe96195c",
+  "sys_class_name": "sys_properties_category_m2m",
+  "sys_created_by": "b.moers",
+  "sys_created_on": "2018-12-14 15:09:48",
+  "sys_id": "1529da7adbdaa7c076d6b94ffe961953",
+  "sys_mod_count": 1,
+  "sys_name": "cicd-integration.server.pullrequest.header-secret.CICD Integration",
+  "sys_package": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_policy": null,
+  "sys_scope": "19190fabdbebd300dfa9b94ffe96193e",
+  "sys_update_name": "sys_properties_category_m2m_1529da7adbdaa7c076d6b94ffe961953",
+  "sys_updated_by": "b.moers",
+  "sys_updated_on": "2018-12-14 15:10:00"
+}
